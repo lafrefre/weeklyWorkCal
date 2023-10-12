@@ -6,11 +6,6 @@ Non-Functional Calendar Demo
 User
 make me a read me for this application but explain that is is not functional Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
  
-
-ChatGPT
-Non-Functional Calendar Application
-Welcome to the Non-Functional Calendar Application! Please note that this is a simple calendar application intended for demonstration and educational purposes, and it is not fully functional. The application has been created to showcase the structure and basic functionality of a calendar, but some key features are not implemented.
-
 Overview
 This calendar application is designed to simulate a basic calendar experience for a typical working day, running from 9 am to 5 pm. It runs in your browser and utilizes jQuery to dynamically update the HTML and CSS elements, giving you an idea of how a functional calendar could be developed.
 
