@@ -6,8 +6,6 @@ Non-Functional Calendar Demo
 User
 make me a read me for this application but explain that is is not functional Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
  
-Overview
-This calendar application is designed to simulate a basic calendar experience for a typical working day, running from 9 am to 5 pm. It runs in your browser and utilizes jQuery to dynamically update the HTML and CSS elements, giving you an idea of how a functional calendar could be developed.
 
 Features
 Hourly Event Scheduling: You can see time slots for each hour from 9 am to 5 pm, and you can theoretically save events for each hour.
